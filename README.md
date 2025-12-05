@@ -24,7 +24,7 @@ Bu sistem aşağıdaki temel işlevleri yerine getirmektedir:
 * **Mimari:** Layered Architecture (Model - Repository - Database)
 * **IDE:** Visual Studio Code
 
-⚙️ Kurulum ve Çalıştırma
+## ⚙️ Kurulum ve Çalıştırma
 
 Proje Visual Studio Code ortamında geliştirilmiştir.
 
