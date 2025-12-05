@@ -26,7 +26,6 @@ Bu sistem aşağıdaki temel işlevleri yerine getirmektedir:
 
 ### Proje Yapısı
 
-```text
 SmartLibrary/
 ├── lib/
 │   └── sqlite-jdbc-3.x.x.jar  # JDBC Sürücüsü
