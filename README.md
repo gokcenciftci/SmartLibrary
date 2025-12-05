@@ -33,5 +33,3 @@ Projeyi bilgisayarınıza indirin (Clone/Download).
 Klasörü VS Code ile açın.
 
 lib klasöründeki kütüphaneyi tanıtıp Main.java dosyasını çalıştırın.
-
-Geliştirici: Gökçen Çiftci Okul No: 20230108016 Ders: Nesneye Dayalı Programlama - II Teslim Tarihi: 30.11.2025
