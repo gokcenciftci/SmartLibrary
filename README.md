@@ -24,26 +24,8 @@ Bu sistem aşağıdaki temel işlevleri yerine getirmektedir:
 * **Mimari:** Layered Architecture (Model - Repository - Database)
 * **IDE:** Visual Studio Code
 
-### Proje Yapısı
-
-SmartLibrary/
-├── lib/
-│   └── sqlite-jdbc-3.x.x.jar  # JDBC Sürücüsü
-├── src/
-│   ├── database/
-│   │   └── Database.java      # Bağlantı ve Tablo Oluşturma
-│   ├── model/
-│   │   ├── Book.java          # Kitap Varlığı
-│   │   ├── Student.java       # Öğrenci Varlığı
-│   │   └── Loan.java          # Ödünç İşlemi Varlığı
-│   ├── repository/            # Veri Tabanı İşlemleri (CRUD)
-│   │   ├── BookRepository.java
-│   │   ├── StudentRepository.java
-│   │   └── LoanRepository.java
-│   └── Main.java              # Ana Menü ve Uygulama Mantığı
-└── README.md
-
 ⚙️ Kurulum ve Çalıştırma
+
 Proje Visual Studio Code ortamında geliştirilmiştir.
 
 Projeyi bilgisayarınıza indirin (Clone/Download).
